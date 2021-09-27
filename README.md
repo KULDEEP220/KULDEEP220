@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KULDEEP220
+- ## Hi, I'm Kuldeep Singh, A Data Science Enthusiast 🚀 from India.
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning machine learning using python.
 - 💞️ I’m looking to collaborate on ...
